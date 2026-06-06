@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-groq
+sentence-transformers
+faiss-cpu
+streamlit
+requests
+pandas
+numpy
+python-dotenv
+biopython
