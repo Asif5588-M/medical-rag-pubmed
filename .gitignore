@@ -1,13 +1,10 @@
 # Data — large files
 data/raw/
-data/processed/
 
-# Models — large files
+# Models
 models/
-*.faiss
-*.pkl
-*.bin
 *.pt
+*.bin
 
 # Environment
 __pycache__/
